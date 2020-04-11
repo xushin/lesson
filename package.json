@@ -1,0 +1,24 @@
+{
+  "name": "lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xushin/lesson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xushin/lesson/issues"
+  },
+  "homepage": "https://github.com/xushin/lesson#readme",
+  "dependencies": {
+    "matter-js": "^0.14.2",
+    "parcel-bundler": "^1.12.4"
+  }
+}
